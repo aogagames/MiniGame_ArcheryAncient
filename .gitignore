@@ -1,0 +1,18 @@
+# VibeLab: build artifacts and machine-local files (do not commit)
+/local.properties
+/build/
+/.gradle/
+/.cxx/
+/launcher/build/
+/launcher/.gradle/
+/launcher/.cxx/
+/unityLibrary/build/
+/unityLibrary/.gradle/
+/unityLibrary/.cxx/
+/unityLibrary/symbols/
+/unityLibrary/xrmanifest.androidlib/build/
+/unityLibrary/xrmanifest.androidlib/.gradle/
+/unityLibrary/xrmanifest.androidlib/.cxx/
+/shared/build/
+/*_BurstDebugInformation_DoNotShip/
+*.apk
